@@ -1,3 +1,3 @@
-# c4cs-f18-rpn
+# RPN Calculator with GUI
 
-[![Build Status](https://travis-ci.org/sletap/c4cs-f18-rpn.svg?branch=master)](https://travis-ci.org/sletap/c4cs-f18-rpn)
+todo: Add documentation
